@@ -1,0 +1,5 @@
+Scaffold-DbContext "Server=x;Database=AttrezzatureOleodinamiche;User ID=sa;x" Microsoft.EntityFrameworkCore.SqlServer -OutputDir ModelsAreaLAM
+Scaffold-DbContext "Server=x\SQLEXPRESS;Database=AttrezzatureOleodinamicheAREACALDO;User ID=sa;x" Microsoft.EntityFrameworkCore.SqlServer -OutputDir ModelsAreaACC
+Scaffold-DbContext "Server=x\SQLEXPRESS;Database=AttrezzatureOleodinamicheAREACALDO;User ID=sa;x" Microsoft.EntityFrameworkCore.SqlServer -OutputDir ModelsAreaGHI
+Scaffold-DbContext "Server=x;Database=AttrezzatureOleodinamiche;User ID=sa;x" Microsoft.EntityFrameworkCore.SqlServer -OutputDir ModelsAreaPGT
+Scaffold-DbContext "Server=x;Database=AttrezzatureOleodinamiche_PGT;Trusted_Connection=True;MultipleActiveResultSets=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir ModelsAreaPGT

@@ -1,0 +1,83 @@
+Gli applicativi sono 5 e girano su indirizzi web diversi e su server o VM diverse
+
+Indirizzi IP applicazioni web e DB
+
+----------------------------------------------------------------------
+AREA LAM:	x
+Percorso web:	x/attrezzature.oleodinamiche
+Percorso:	c:\inetpub\wwwroot\Attrezzature.Oleodinamiche
+Credenziali:	administrator
+Password:	w3bcp@
+Il server web è un PC fisico (ID 34666) che si trova nella sala server
+
+Database SQL:	x
+Credenziali:	sa
+Password:	x
+E' una macchina virtuale che si trova sul DataCenter del PNA2
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+AREA ACC:	x
+Percorso web:	x/areacaldo
+Percorso:	c:\APP_WEB\appr_caldo
+Credenziali:	credenziali di dominio ILVA
+E' una macchina virtuale situata al SIA
+
+Database SQL:	x\sqlexpress
+Credenziali:	sa
+Password:	x
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+AREA GHI:	x
+Percorso web:	x/areacaldo
+Percorso:	c:\APP_WEB\appr_caldo
+Credenziali:	credenziali di dominio ILVA
+E' una macchina virtuale situata al SIA
+
+Database SQL:	x\sqlexpress
+Credenziali:	sa
+Password:	x
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+AREA SVR5:	x
+Percorso web:	x/svr5
+Percorso:	c:\APP_WEB\appr_caldo
+Credenziali:	credenziali di dominio ILVA
+E' una macchina virtuale situata al SIA
+
+Database SQL:	x\sqlexpress
+Credenziali:	sa
+Password:	x
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+AREA PGT:	x
+Percorso web:	x/appr
+Percorso:	c:\inetput\wwwroot\appr
+Credenziali:	Administrator
+Password:	admin
+
+Database SQL:	x
+Credenziali:	sa
+Password:	x
+----------------------------------------------------------------------
+
+
+vecchio pc dismesso
+----------------------------------------------------------------------
+AREA PGT:	x
+Percorso web:	x/appr
+Percorso:	c:\inetput\wwwroot\appr
+Credenziali:	Administrator
+Password:	admin
+
+Database SQL:	x
+Credenziali:	sa
+Password:	x
+----------------------------------------------------------------------
+

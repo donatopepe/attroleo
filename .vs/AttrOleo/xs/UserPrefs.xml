@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3A4CDD34-000D-4A31-960F-E65B13ACDE45}|IdentitySampleApplication">
+  <MonoDevelop.Ide.ItemProperties.AttrOleo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AttrOleo/Controllers/ValvoleController.cs">
+    <Files>
+      <File FileName="AttrOleo/Controllers/ValvoleController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AttrOleo" expanded="True">
+            <Node name="AttrOleo" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ValvoleController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
